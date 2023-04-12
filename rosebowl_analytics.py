@@ -4,7 +4,7 @@ Southern Utah University
 CSIS-1300-01-SP23: Programming with Python
 
 Coding Nine 
-GitHub: 
+GitHub: https://github.com/ddmlarm/coding-nine
 Requirements: Rowsebowl.txt located in folder with rosebowl_analytics.py 
 """
 
